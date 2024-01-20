@@ -2,6 +2,8 @@
 
 Cryptocurrency, a revolutionary form of digital or virtual currency, has emerged as a transformative force in the world of finance. Unlike traditional currencies issued by governments and central banks, cryptocurrencies operate on decentralized networks based on blockchain technology. Blockchain, a secure and transparent distributed ledger, ensures the integrity and immutability of transactions across a network of computers.
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.japantimes.co.jp%2Fnews%2F2018%2F01%2F23%2Fbusiness%2Fjapan-global-leader-cryptocurrency-investment%2F&psig=AOvVaw3eeJ08eR1RAPiG314GoBFa&ust=1705865222246000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiZ6KnZ7IMDFQAAAAAdAAAAABAD
+
 The pioneer and most well-known cryptocurrency, Bitcoin, was introduced in 2009 by an anonymous entity known as Satoshi Nakamoto. Since then, a multitude of cryptocurrencies has entered the market, each with its unique features and use cases. Ethereum, Ripple, Litecoin, and many others have gained prominence, contributing to the diversification of the cryptocurrency landscape.
 
 The market for cryptocurrencies is characterized by its dynamic and volatile nature. Prices can experience rapid fluctuations driven by factors such as market demand, regulatory developments, technological advancements, and macroeconomic trends. The decentralized nature of cryptocurrencies has attracted a global user base, ranging from individual investors and traders to institutional players.
@@ -74,5 +76,7 @@ Volume trends often precede price movements, making them valuable for predicting
 
 
 <img width="751" alt="Screenshot 2024-01-20 at 14 26 23" src="https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/b30f281b-a8e7-4f95-88da-614a6b1f0c66">
+
+
 
 
