@@ -41,6 +41,9 @@ Blockchain technology represents a groundbreaking innovation with the potential 
 ## Dataset
 
 We used R scipt to generate and analyzed using the package (crypto) from R
+
+
+
 <img width="265" alt="Screenshot 2024-01-20 at 14 15 40" src="https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/7ca61ae2-a720-4818-b54e-e379ed5fe5fb">
 
 
