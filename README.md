@@ -7,6 +7,9 @@ Cryptocurrency, a revolutionary form of digital or virtual currency, has emerged
 
 The pioneer and most well-known cryptocurrency, Bitcoin, was introduced in 2009 by an anonymous entity known as Satoshi Nakamoto. Since then, a multitude of cryptocurrencies has entered the market, each with its unique features and use cases. Ethereum, Ripple, Litecoin, and many others have gained prominence, contributing to the diversification of the cryptocurrency landscape.
 
+![image](https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/02020d68-28c1-4fa9-981b-d06671e98e21)
+
+
 The market for cryptocurrencies is characterized by its dynamic and volatile nature. Prices can experience rapid fluctuations driven by factors such as market demand, regulatory developments, technological advancements, and macroeconomic trends. The decentralized nature of cryptocurrencies has attracted a global user base, ranging from individual investors and traders to institutional players.
 
 Investors participate in the cryptocurrency market for various reasons, including the potential for high returns, diversification of investment portfolios, and belief in the underlying technology's transformative capabilities. Cryptocurrencies offer unique advantages such as borderless transactions, reduced reliance on intermediaries, and increased financial inclusivity.
