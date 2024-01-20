@@ -46,6 +46,8 @@ We used R scipt to generate and analyzed using the package (crypto) from R. Firs
 
 <img width="265" alt="Screenshot 2024-01-20 at 14 15 40" src="https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/7ca61ae2-a720-4818-b54e-e379ed5fe5fb">
 
+## Price over time
+
 
 The foundation of our analysis lies in the collection of comprehensive cryptocurrency data. This includes historical price data, trading volumes, market capitalization, and other relevant metrics across various cryptocurrencies. Utilizing reputable data sources and APIs ensures the reliability and accuracy of our dataset, providing a solid foundation for trend analysis.
 
@@ -54,3 +56,23 @@ Before delving into trends, conducting exploratory data analysis (EDA) is crucia
 Analyzing price trends is paramount in understanding the market sentiment. Time series analysis, moving averages, and volatility measures can offer insights into the cyclical patterns and potential turning points in cryptocurrency prices. Identifying bullish or bearish trends assists investors, traders, and policymakers in making informed decisions.
 
 <img width="749" alt="Screenshot 2024-01-20 at 14 22 05" src="https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/17e10cc9-c6db-4f6d-a9e3-b022e444c796">
+
+## Crypto volume
+
+Historical crypto volume data provides a comprehensive view of how the trading activity within the cryptocurrency market has evolved over time. This dataset typically encompasses daily or hourly volume figures for various cryptocurrencies, allowing for a granular analysis of market trends.
+
+One fundamental aspect of volume analysis is identifying periods of high and low trading activity. Peaks in volume often coincide with significant market events, such as the launch of new projects, regulatory announcements, or major price movements. Conversely, low volume periods may indicate periods of consolidation or market indecision.
+
+Correlating historical volume data with price movements can reveal interesting patterns. A surge in volume accompanying a price rally or decline may signify the strength of the prevailing trend. Conversely, a lack of volume support during a price movement could signal a potential reversal or a lack of market conviction.
+
+Comparing volume trends across various cryptocurrencies provides a broader perspective on market dynamics. It allows for the identification of trends specific to individual coins and the exploration of correlations between their trading volumes.
+
+Volume trends often precede price movements, making them valuable for predicting potential market shifts. An increase in volume before a significant price change may indicate the start of a new trend, while decreasing volume during a price movement could suggest a weakening trend. Attached is the volume over time.
+
+
+
+
+
+<img width="751" alt="Screenshot 2024-01-20 at 14 26 23" src="https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/b30f281b-a8e7-4f95-88da-614a6b1f0c66">
+
+
