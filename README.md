@@ -1,17 +1,16 @@
-# Crypto Package Analysis
+# Cryptocurrency Data Analysis
 
-This repository contains an R script (`crypto_analysis.R`) that analyzes the "crypto" package dataset.
+This repository contains R code for analyzing and visualizing trends in a cryptocurrency dataset.
 
 ## Instructions
 
-1. Install the required packages by running the script.
-2. Run the `crypto_analysis.R` script to perform basic analysis and create visualizations.
+1. Clone this repository.
+2. Ensure you have R and required packages installed (`tidyverse`, `ggplot2`).
+3. Replace 'your_dataset.csv' with your actual cryptocurrency dataset file.
+4. Run the `crypto_analysis.R` script.
+5. View the generated plot in the output folder.
 
-## Dependencies
+## Dataset
 
-- R
-- crypto package
+The cryptocurrency dataset used for analysis can be found in the 'data' folder.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
