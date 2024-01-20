@@ -9,3 +9,5 @@ ggplot(crypto_data, aes(x = Date, y = Price, color = Coin)) +
        y = "Price",
        color = "Cryptocurrency") +
   theme_minimal()
+  ggsave("path/to/plot.png", plot = last_plot())
+
