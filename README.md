@@ -102,8 +102,8 @@ The trends in market capitalization and dominance underscore the shifting prefer
 
 ## Votality and risk management
 
-The inherent volatility of cryptocurrency markets is a trend that persists. While volatility presents opportunities for profit, it also poses risks that demand careful risk management strategies. Traders and investors must navigate this volatility, utilizing analytical tools and risk mitigation measures to thrive in a market known for its price unpredictability.
+The inherent volatility of cryptocurrency markets is a trend that persists. While volatility presents opportunities for profit, it also poses risks that demand careful risk management strategies. Traders and investors must navigate this volatility, utilizing analytical tools and risk mitigation measures to thrive in a market known for its price unpredictability. Below is alternative resource to manage your cryptocurrency and profitable future.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=eaN6nzJ5bc0)
+[![Risk management](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=eaN6nzJ5bc0)
 
 
