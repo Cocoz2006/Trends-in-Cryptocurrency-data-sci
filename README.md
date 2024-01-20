@@ -1,7 +1,7 @@
 # Trends-in-Cryptocurrency-data-sci
 library(tidyverse)
 library(coinmarketcapr)
-key <- "XXXXXX"
+key <- "435281"
 coinmarketcapr::setup(key)
 cryptos <- get_crypto_listings( limit=50)
 head(cryptos)
