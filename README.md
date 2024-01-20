@@ -40,11 +40,11 @@ Blockchain technology represents a groundbreaking innovation with the potential 
 
 ## Dataset
 
-We used R scipt to generate and analyzed using the package (crypto) from R
+We used R scipt to generate and analyzed using the package (crypto) from R. First we generated the data table using the accessible resouce data.
 
 
 
 <img width="265" alt="Screenshot 2024-01-20 at 14 15 40" src="https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/7ca61ae2-a720-4818-b54e-e379ed5fe5fb">
 
 
-
+The foundation of our analysis lies in the collection of comprehensive cryptocurrency data. This includes historical price data, trading volumes, market capitalization, and other relevant metrics across various cryptocurrencies. Utilizing reputable data sources and APIs ensures the reliability and accuracy of our dataset, providing a solid foundation for trend analysis.
