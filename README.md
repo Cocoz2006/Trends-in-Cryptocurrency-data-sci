@@ -33,5 +33,4 @@ In this dynamic landscape, staying informed about market trends, technological d
 
 The cryptocurrency dataset used for analysis can be found in the 'data' folder.
 
-git clone https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci.git
 
