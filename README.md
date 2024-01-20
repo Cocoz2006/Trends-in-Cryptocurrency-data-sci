@@ -40,6 +40,6 @@ Blockchain technology represents a groundbreaking innovation with the potential 
 
 ## Dataset
 
-The cryptocurrency dataset used for analysis can be found in the 'data' folder.
+We used R scipt to generate and analyzed using the package (crypto) from R
 
 
