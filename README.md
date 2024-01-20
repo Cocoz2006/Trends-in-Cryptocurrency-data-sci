@@ -48,3 +48,9 @@ We used R scipt to generate and analyzed using the package (crypto) from R. Firs
 
 
 The foundation of our analysis lies in the collection of comprehensive cryptocurrency data. This includes historical price data, trading volumes, market capitalization, and other relevant metrics across various cryptocurrencies. Utilizing reputable data sources and APIs ensures the reliability and accuracy of our dataset, providing a solid foundation for trend analysis.
+
+Before delving into trends, conducting exploratory data analysis (EDA) is crucial. EDA involves visualizing and summarizing key characteristics of the data. Scatter plots, time series charts, and distribution plots can help identify patterns, outliers, and potential relationships. This phase sets the stage for a deeper understanding of the underlying dynamics in the cryptocurrency market.
+
+Analyzing price trends is paramount in understanding the market sentiment. Time series analysis, moving averages, and volatility measures can offer insights into the cyclical patterns and potential turning points in cryptocurrency prices. Identifying bullish or bearish trends assists investors, traders, and policymakers in making informed decisions.
+
+<img width="749" alt="Screenshot 2024-01-20 at 14 22 05" src="https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/17e10cc9-c6db-4f6d-a9e3-b022e444c796">
