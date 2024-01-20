@@ -16,6 +16,9 @@ Investors participate in the cryptocurrency market for various reasons, includin
 
 Blockchain technology, the backbone of cryptocurrencies, has applications beyond finance. Smart contracts, decentralized finance (DeFi), and non-fungible tokens (NFTs) are among the innovative use cases contributing to the broader adoption and integration of blockchain into various industries.
 
+![image](https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/7d893d61-d6f9-4f30-a1f0-119d1c91ca21)
+
+
 As the cryptocurrency market continues to evolve, regulatory developments play a crucial role in shaping its trajectory. Governments and financial institutions around the world are actively exploring regulatory frameworks to address concerns related to fraud, money laundering, and investor protection while fostering innovation and responsible market participation.
 
 In this dynamic landscape, staying informed about market trends, technological developments, and regulatory changes is essential for anyone involved in or curious about the world of cryptocurrencies. Whether you're an investor, developer, or enthusiast, the cryptocurrency market offers a fascinating journey into the future of finance and decentralized technologies.
@@ -32,6 +35,9 @@ In this dynamic landscape, staying informed about market trends, technological d
 Blockchain technology, originally developed as the underlying infrastructure for cryptocurrencies like Bitcoin, has evolved into a transformative force with far-reaching implications across various industries. This essay aims to analyze the key features, applications, benefits, and challenges associated with blockchain technology, shedding light on its potential to reshape our digital landscape.
 
 At its core, blockchain is a decentralized and distributed ledger that records transactions across a network of computers. The term "blockchain" refers to the chain of blocks containing transaction data, secured using cryptographic principles. The key features of blockchain include decentralization, immutability, transparency, and consensus mechanisms. These features work in tandem to ensure trust and security within the network.
+
+![image](https://github.com/Cocoz2006/Trends-in-Cryptocurrency-data-sci/assets/157235340/3369c2dd-a3fa-481a-9eab-396d12e442a3)
+
 
 The applications of blockchain technology extend beyond cryptocurrencies, encompassing a diverse range of industries. In finance, blockchain facilitates secure and transparent transactions, reducing the need for intermediaries. Smart contracts, self-executing contracts with coded terms, automate and streamline processes in various sectors, from legal agreements to supply chain management. Healthcare can benefit from blockchain by enhancing data security and interoperability. Additionally, blockchain's tamper-resistant nature makes it suitable for recording and verifying intellectual property rights, enhancing transparency in elections, and combating fraud.
 
